@@ -1,1 +1,0 @@
-Doing a project to practice working on the HTML skills I picked up in The Odin Project Foundations course.
